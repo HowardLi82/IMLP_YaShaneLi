@@ -1,2 +1,2 @@
-# YSL_IMLP
+# IMLP_YaShaneLi
 The course about machine learning.
